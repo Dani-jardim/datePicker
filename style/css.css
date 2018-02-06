@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+
+}
+.horaescolha{
+	width: 100px;
+	height: 50;
+	background: #ebebeb;
+	color: #fff;
+	position: absolute;
+	display: none;
+
+
+}
+
+}
+.diaescolha{
+	width: 100px;
+	height: 50;
+	background: #ebebeb;
+	color: #fff;
+	position: absolute;
+	display: none;
+
+
+}
